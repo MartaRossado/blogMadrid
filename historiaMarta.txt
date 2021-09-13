@@ -6,4 +6,6 @@ Esta es la vida y obra maestra de Marta Rosado
 Marta Rosado tiene 32 años y nació en Madrid, viviendo en San lorenzo de El Escorial.
 Hoy hablaremos de su historia.
 
-Mide 1,65m de estatura. Tiene pelo rubio
+Mide 1,65m de estatura. Tiene pelo rubio.
+
+Marta está preparada para desarrollarse como Front-end developer de manera profesional.
